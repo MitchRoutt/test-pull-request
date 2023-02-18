@@ -1,1 +1,3 @@
 Just seeing if it will let me commit to main.
+
+Now that there is a branch protection rule, it should not let me commit to main.
